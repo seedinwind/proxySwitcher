@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">proxySwicher</string>
+    <string name="no_proxy">无代理</string>
+    <string name="rc">rc</string>
+    <string name="dev">dev</string>
+    <string name="tip"></string>
+    <string name="pref_account_summary">请输入登录账号</string>
+    <string name="pref_account">用户名</string>
+    <string name="pref_pw_summary">请输入登录密码</string>
+    <string name="pref_pw">密码</string>
+</resources>
